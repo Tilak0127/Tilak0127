@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Hi, I’m Tilak, an aspiring Data Analyst and B.Tech student with a strong interest in transforming raw data into meaningful insights ,<br> I work with Python, SQL, Excel, and Power BI to clean, analyze, and visualize data for real-world use cases ,<br> I enjoy building data-driven projects, collaborating on analytics and dashboarding work, and continuously improving my skills in advanced SQL and BI tools ,<br> I’m especially passionate about using data and technology to solve practical problems and create impactful solutions .
 
 
